@@ -1,4 +1,4 @@
 export enum Pages {
-	Projects = 'sorry',
+	Projects = 'projects',
 	Travel = 'sorry'
 }

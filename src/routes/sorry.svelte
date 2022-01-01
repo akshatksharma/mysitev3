@@ -14,24 +14,6 @@
 </Page>
 
 <style>
-	:global(*),
-	:global(*::before),
-	:global(*::after) {
-		box-sizing: border-box;
-	}
-
-	:global(html),
-	:global(body),
-	:global(h1),
-	:global(h2),
-	:global(h3),
-	:global(p) {
-		margin: 0;
-		padding: 0;
-		border: 0;
-		font-weight: 400;
-	}
-
 	.body {
 		margin-top: 6rem;
 		margin-bottom: 3rem;

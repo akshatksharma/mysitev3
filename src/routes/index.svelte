@@ -72,25 +72,4 @@
 			background-position: 0% 50%;
 		}
 	}
-
-	:global(*),
-	:global(*::before),
-	:global(*::after) {
-		box-sizing: border-box;
-	}
-
-	:global(html),
-	:global(body),
-	:global(h1),
-	:global(h2),
-	:global(h3),
-	:global(p) {
-		transition: all 300ms;
-		margin: 0;
-		padding: 0;
-		border: 0;
-		font-size: 16px;
-		font: inherit;
-		vertical-align: baseline;
-	}
 </style>
