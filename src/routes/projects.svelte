@@ -40,6 +40,27 @@
 					</p>
 				</div>
 			</div>
+			<div class="projectBox">
+				<!-- <img src="" alt="" class="image" /> -->
+				<div class="content">
+					<div class="header">
+						<h2>
+							<a
+								href="https://www.figma.com/proto/i0DaXzp66YyQaTHiPOyJQm/WebSTAC-Redesign?kind=&node-id=191%3A2830&page-id=190%3A2795&scaling=scale-down-width&starting-point-node-id=190%3A2799&viewport=277%2C48%2C0.52"
+								>WebSTAC Redesign</a
+							>
+						</h2>
+						<p>Spring 2021</p>
+					</div>
+					<p class="description">
+						A closer look into WebSTAC, Washington University's course registration system. I worked
+						in a team of 3 to gather survey and interview data from the greater student population.
+						We organized our data through affinity mapping in order to create user personas and
+						journey maps. Ultimately, we wireframed improvements to WebSTAC that addressed the key
+						problem areas we identifed.
+					</p>
+				</div>
+			</div>
 		</div>
 	</div>
 	<Footer />
