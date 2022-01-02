@@ -37,6 +37,6 @@
 
 	nav .group :not(a.current):hover,
 	a.home:hover {
-		color: #999898;
+		color: #838181;
 	}
 </style>
