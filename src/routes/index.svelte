@@ -1,7 +1,6 @@
 <script>
 	// @ts-ignore
 	import Typewriter from 'svelte-typewriter';
-	import Nav from '../components/Nav.svelte';
 	import Page from '../components/Page.svelte';
 	import Footer from '../components/Footer.svelte';
 </script>

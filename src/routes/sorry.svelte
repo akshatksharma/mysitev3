@@ -1,8 +1,10 @@
 <script lang="ts">
+	import { Pages } from '../types';
+
 	import Page from '../components/Page.svelte';
 </script>
 
-<Page>
+<Page currentPage={Pages.Travel}>
 	<div class="body">
 		<p class="sign">👷🏽</p>
 		<h1 class="title">This page is still under construction.</h1>
