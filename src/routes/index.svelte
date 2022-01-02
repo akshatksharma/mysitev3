@@ -20,9 +20,9 @@
 		</div>
 		<p class="text">A fullstack developer based out of Dallas and St. Louis.</p>
 		<p class="text">
-			I love museums, photography, keyboards, korean fried chicken, and traveling. I’m currently
-			working on finishing my degree in one piece, and not embarassing myself during pickup
-			basketball games.
+			I love museums, photography, mechanical keyboards, korean fried chicken, and traveling. I’m
+			currently working on finishing my degree in one piece, and not embarassing myself during
+			pickup basketball games.
 		</p>
 	</div>
 	<Footer />
