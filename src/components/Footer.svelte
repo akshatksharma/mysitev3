@@ -10,4 +10,12 @@
 		margin-right: 0.5rem;
 		text-decoration: none;
 	}
+
+	a:focus {
+		border-bottom: 1px solid;
+	}
+
+	a:hover {
+		border-bottom: 1px solid;
+	}
 </style>
