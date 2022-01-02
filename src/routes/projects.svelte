@@ -83,6 +83,7 @@
 	.projectBox .header p {
 		font-style: italic;
 		font-size: 0.95rem;
+		margin-bottom: 0.1rem;
 	}
 
 	a:focus {
