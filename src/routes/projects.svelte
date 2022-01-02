@@ -18,9 +18,9 @@
 						<p>May 2020</p>
 					</div>
 					<p class="description">
-						Mazeviz is a project I made to become more comfortable with vanilla Javascript, graph
-						search algorithms, and visualization. I enjoy learning with visuals, so I wanted to make
-						concepts in class come to life in an easy to use and informative site.
+						Mazeviz is a project I made to become more comfortable with vanilla JavaScript, graph
+						search algorithms, and data visualization. I enjoy learning with visuals, so I wanted to
+						make concepts in class come to life in an easy to use and informative site.
 					</p>
 				</div>
 			</div>
