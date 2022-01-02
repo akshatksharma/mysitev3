@@ -4,7 +4,7 @@
 </script>
 
 <nav>
-	<a href=".">Home</a>
+	<a class="home" href=".">Home</a>
 	<div class="group">
 		{#each Object.keys(Pages) as page}
 			<a class={Pages[page] == currentPage ? 'current' : ''} href="/{Pages[page]}">{page}</a>
@@ -22,6 +22,7 @@
 	a {
 		color: black;
 		text-decoration: none;
+		transition: color 300ms;
 	}
 
 	a.current {
@@ -29,6 +30,13 @@
 	}
 
 	nav .group a {
-		margin-left: 1rem;
+		display: inline-block;
+		text-align: center;
+		width: 4rem;
+	}
+
+	nav .group :not(a.current):hover,
+	a.home:hover {
+		color: #999898;
 	}
 </style>
