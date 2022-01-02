@@ -1,12 +1,10 @@
 <script lang="ts">
-	import Nav from '../components/Nav.svelte';
-	import Page from '../components/Page.svelte';
 	import Footer from '../components/Footer.svelte';
+	import Page from '../components/Page.svelte';
 	import { Pages } from '../types';
 </script>
 
-<Page>
-	<Nav currentPage={Pages.Projects} />
+<Page currentPage={Pages.Projects}>
 	<div class="body">
 		<div class="wavy" />
 		<div class="list">
@@ -14,11 +12,13 @@
 				<!-- <img src="" alt="" class="image" /> -->
 				<div class="content">
 					<div class="header">
-						<h2>MazeViz</h2>
+						<h2>
+							<a href="https://mazeviz.netlify.app/	">MazeViz</a>
+						</h2>
 						<p>May 2020</p>
 					</div>
 					<p class="description">
-						Mazeviz is a project I made to become more comfortable with vanilla Javascript, Graph
+						Mazeviz is a project I made to become more comfortable with vanilla Javascript, graph
 						search algorithms, and visualization. I enjoy learning with visuals, so I wanted to make
 						concepts in class come to life in an easy to use and informative site.
 					</p>
@@ -28,7 +28,7 @@
 				<!-- <img src="" alt="" class="image" /> -->
 				<div class="content">
 					<div class="header">
-						<h2>Grounded: The Pandemic Archive</h2>
+						<h2><a href="https://grounded-archive-frontend.netlify.app/">Grounded</a></h2>
 						<p>June 2020</p>
 					</div>
 					<p class="description">
@@ -46,12 +46,24 @@
 </Page>
 
 <style>
+	.body {
+		margin-bottom: 3rem;
+	}
 	.projectBox {
 		margin-bottom: 2rem;
 	}
-	.projectBox h2 {
+	.projectBox h2 a {
 		font-weight: 700;
 		font-size: 1.25rem;
+		text-decoration: none;
+	}
+
+	a:focus {
+		border-bottom: 1px solid;
+	}
+
+	a:hover {
+		border-bottom: 1px solid;
 	}
 
 	.projectBox .header {

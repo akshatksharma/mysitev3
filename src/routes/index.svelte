@@ -11,7 +11,6 @@
 </svelte:head>
 
 <Page>
-	<Nav />
 	<div class="body">
 		<div class="wavy" />
 		<div class="titles">
