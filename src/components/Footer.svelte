@@ -1,5 +1,5 @@
 <footer>
-	<a href="https://www.dropbox.com/s/886mv2kbvrj3eu4/Sharma%2CAkshat--resume.pdf?dl=0">resume</a>
+	<a href="https://www.dropbox.com/s/httd84hxjmqg0py/Sharma%2CAkshat--resume.pdf?dl=0">resume</a>
 	<a href="https://www.linkedin.com/in/akshat-k-sharma/">linkedin</a>
 	<a href="https://github.com/akshatksharma">github</a>
 	<a href="mailto:akshatksharmaa@gmail.com" target="_blank" rel="noopener noreferrer">reach out!</a>
