@@ -77,6 +77,12 @@
 		font-weight: 700;
 		font-size: 1.25rem;
 		text-decoration: none;
+		letter-spacing: 0.25px;
+	}
+
+	.projectBox .header p {
+		font-style: italic;
+		font-size: 0.95rem;
 	}
 
 	a:focus {
