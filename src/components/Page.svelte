@@ -24,7 +24,7 @@
 
 <style>
 	.page {
-		height: 100vh;
+		min-height: 100vh;
 		max-width: 700px;
 		margin: 0 auto;
 		padding: 1rem 2rem;
