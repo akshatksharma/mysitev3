@@ -4,7 +4,7 @@
 </script>
 
 <nav>
-	<a href=".">Akshat Sharma</a>
+	<a href=".">Home</a>
 	<div class="group">
 		{#each Object.keys(Pages) as page}
 			<a class={Pages[page] == currentPage ? 'current' : ''} href="/{Pages[page]}">{page}</a>

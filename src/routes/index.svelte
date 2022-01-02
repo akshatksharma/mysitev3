@@ -13,7 +13,7 @@
 <Page>
 	<Nav />
 	<div class="body">
-		<div class="img" />
+		<div class="wavy" />
 		<div class="titles">
 			<Typewriter loop={5000} interval={[90, 100, 130]}>
 				<h1 class="title">Hi, I'm Akshat</h1>
@@ -50,7 +50,7 @@
 		margin-bottom: 0.5rem;
 	}
 
-	.img {
+	.wavy {
 		margin-top: 3rem;
 		margin-bottom: 3rem;
 		width: 100%;
