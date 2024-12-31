@@ -18,10 +18,9 @@
 				<h1 class="title">नमस्ते, मैं अक्षत हूँ</h1>
 			</Typewriter>
 		</div>
-		<p class="text">A fullstack developer based out of Dallas and St. Louis.</p>
+		<p class="text">An iOS developer based out of New York</p>
 		<p class="text">
-			I love museums, photography, mechanical keyboards, korean fried chicken, and traveling. I’m
-			currently working on finishing my degree in one piece, and not embarassing myself during
+			I currently work at Meta on the Threads app. Beyond that, I love buying clothes, building mechanical keyboards, finding new places to eat, and not embarassing myself during
 			pickup basketball games.
 		</p>
 	</div>
