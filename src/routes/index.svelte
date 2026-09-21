@@ -18,9 +18,8 @@
 				<h1 class="title">नमस्ते, मैं अक्षत हूँ</h1>
 			</Typewriter>
 		</div>
-		<p class="text">An iOS developer based out of New York City.</p>
 		<p class="text">
-			Currently working at Meta on the Threads app. Love to talk about mechanical keyboards, niche fashion brands, Kevin Durant, new places to eat, or whatever's on your mind.
+			An iOS developer based out of New York City. Currently working on the Gemini App at Google DeepMind.
 		</p>
 	</div>
 	<Footer />
